@@ -21,9 +21,9 @@
         "divineomega/laravel-password-exposed-validation-rule": "dev-laravel-9-upgrade"
     },
     "require-dev": {
-        "fakerphp/faker": "^1.14.1|^1.9.1",
-        "php-coveralls/php-coveralls": "^2.0",
-        "orchestra/testbench": "^5.17.1|^7.0"
+        "fakerphp/faker": "^1.19.0",
+        "php-coveralls/php-coveralls": "^2.5",
+        "orchestra/testbench": "^7.0"
     },
     "autoload": {
         "psr-4": {
